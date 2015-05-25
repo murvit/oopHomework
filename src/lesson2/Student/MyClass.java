@@ -1,10 +1,7 @@
 package lesson2.Student;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
 
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.List;
 
 public class MyClass {
