@@ -1,9 +1,6 @@
 package lesson2.Student;
 
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 
 public class StudentList {
     private Student[] list = new Student[100];
@@ -35,12 +32,19 @@ public class StudentList {
         return result;
     }
 
-    public Student findByBirth(Calendar date) {
+    public List<Student> findByBirth(Calendar date) {
+        List<Student> result = new ArrayList<>();
+
         for (int i = 0; i < p; i++) {
             if (list[i].getBirth().equals(date.getTime()))
-                return list[i];
+                result.add(list[i]);
         }
-        return null;
+        return result;
+    }
+
+    public void deleteStudent(int num) {
+        System.arraycopy(this.list, num, this.list, num-1, 100-num);
+        this.list[99]=null;
     }
 
 }

@@ -1,5 +1,7 @@
 package lesson2.Student;
 
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -31,10 +33,22 @@ public class MyClass {
         for (Student s : students)
             System.out.println(s);
 
-        ///cal.set(1974, 8, 8);
-        // = sl.findByBirth(cal);
-        //System.out.println(s);
+        cal.set(1988, 5, 6);
+        students = sl.findByBirth(cal);
+        System.out.println("Students with birthday 1988.06.06");
+        for (Student s : students)
+            System.out.println(s);
+
+        System.out.println("Printing students");
+        for (int i = 0; i<5; i++)
+            System.out.println(sl.get(i));
+
+        System.out.println("Deleting student #3");
+            sl.deleteStudent(3);
 
 
+        System.out.println("Printing students");
+        for (int i = 0; i<5; i++)
+            System.out.println(sl.get(i));
     }
 }
