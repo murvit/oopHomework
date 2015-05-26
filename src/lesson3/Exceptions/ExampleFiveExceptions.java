@@ -4,12 +4,13 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.Reader;
 import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
-import java.util.List;
+
 
 /**
  * Created by VMurashkin on 25.05.2015.
+ * Example of exceptions
  */
+
 public class ExampleFiveExceptions {
 
     public static void main(String[] args) {

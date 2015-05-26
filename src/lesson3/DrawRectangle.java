@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 /**
  * Created by VMurashkin on 25.05.2015.
+ * Draw Rectangle
  */
 public class DrawRectangle {
     public static void main(String[] args) throws IOException {
