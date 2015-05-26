@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 /**
  * Created by VMurashkin on 26.05.2015.
+ * class EnterStudents
  */
 public class EnterStudents {
     String name, surname;

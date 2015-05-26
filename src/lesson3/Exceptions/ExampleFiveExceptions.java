@@ -26,6 +26,7 @@ public class ExampleFiveExceptions {
         System.out.println("Exception 2");
         int[] a = new int[5];
         try {
+            int i = a[1];
             a[6] = 5;
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Your array index is out of bounds");
@@ -51,7 +52,7 @@ public class ExampleFiveExceptions {
         System.out.println("Exception 5");
         String s1 = null;
         try {
-            s1.getBytes(s1);
+            byte[] b = s1.getBytes(s1);
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         }

@@ -2,6 +2,7 @@ package lesson2.Phone;
 
 /**
  * Created by User on 25.05.2015.
+ * class SamsungS4
  */
 public class SamsungS4 extends Phone {
 

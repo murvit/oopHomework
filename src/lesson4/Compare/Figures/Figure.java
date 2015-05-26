@@ -9,7 +9,7 @@ public abstract class Figure{
     double square;
 
     Figure(){
-        this.name=name;
+
     }
 
     public String getName() {

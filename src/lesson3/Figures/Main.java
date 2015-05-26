@@ -6,6 +6,7 @@ import java.util.Random;
 
 /**
  * Created by VMurashkin on 25.05.2015.
+ * Counting
  */
 public class Main {
     public static void main(String[] args) {

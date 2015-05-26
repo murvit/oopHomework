@@ -4,6 +4,7 @@ import java.util.Comparator;
 
 /**
  * Created by VMurashkin on 26.05.2015.
+ * class HumanReverseComparator
  */
 class HumanReverseComparator implements Comparator {
     @Override

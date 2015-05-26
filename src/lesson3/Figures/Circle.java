@@ -2,6 +2,7 @@ package lesson3.Figures;
 
 /**
  * Created by VMurashkin on 25.05.2015.
+ * class Circle
  */
 public class Circle extends Figure {
     double radius;

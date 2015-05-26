@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by User on 25.05.2015.
+ * class FindPrint
  */
 public class FindPrint {
 

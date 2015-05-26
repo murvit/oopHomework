@@ -8,11 +8,11 @@ public class AnalyzeUrl {
 
 
     public void analyze(String str) throws UrlException {
-        if (!str.contains("&")) throw new UrlException("There is no '&' in url");
+        if (!str.contains("&")) throw new UrlException("There is no '&' in Url");
         String[] url = str.split("&");
 
         for (String s : url) {
-            if (!s.contains("=")) throw new UrlException("There is no '=' in url");
+            if (!s.contains("=")) throw new UrlException("There is no '=' in Url");
             String[] out = s.split("=");
             System.out.println("Param = " + out[0] + " : Value = " + out[1]);
         }

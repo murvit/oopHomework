@@ -2,6 +2,7 @@ package lesson3.Developers;
 
 /**
  * Created by User on 25.05.2015.
+ * class MegaDeveloper
  */
 public class MegaDeveloper extends Developer {
 

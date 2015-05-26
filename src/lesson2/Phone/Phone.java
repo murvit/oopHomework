@@ -11,7 +11,7 @@ public abstract class Phone {
     protected int smsCounter;
     String number;
 
-    protected static Map<String, Phone> phones = new HashMap<String, Phone>();
+    protected static Map<String, Phone> phones = new HashMap<>();
 
 
     public void setNumber(String number) {
@@ -59,6 +59,6 @@ public abstract class Phone {
     public void answer(String number){
 
         System.out.println("Hello! This is " + this.getClass());
-    };
+    }
 
 }

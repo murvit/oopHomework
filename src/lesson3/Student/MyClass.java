@@ -46,7 +46,7 @@ public class MyClass {
         for (int i = 0; i < 5; i++)
             System.out.println(sl.get(i));
 
-        System.out.println("Deleting student #3");
+        System.out.println("Deleting Student #3");
         sl.deleteStudent(3);
 
         System.out.println("Printing students");

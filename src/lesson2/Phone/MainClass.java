@@ -1,8 +1,5 @@
 package lesson2.Phone;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class MainClass {
 
 

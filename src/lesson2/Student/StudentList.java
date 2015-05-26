@@ -32,11 +32,11 @@ public class StudentList {
         return result;
     }
 
-    public List<Student> findByBirth(Calendar date) {
+    public List<Student> findByBirth(Date date) {
         List<Student> result = new ArrayList<>();
 
         for (int i = 0; i < p; i++) {
-            if (list[i].getBirth().equals(date.getTime()))
+            if (list[i].getBirth().equals(date))
                 result.add(list[i]);
         }
         return result;

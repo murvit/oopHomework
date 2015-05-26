@@ -2,12 +2,13 @@ package lesson3.Figures;
 
 /**
  * Created by VMurashkin on 25.05.2015.
+ * class Figure
  */
 public abstract class Figure {
     protected String name;
 
     Figure(){
-        this.name=name;
+
     }
 
     public String getName() {
