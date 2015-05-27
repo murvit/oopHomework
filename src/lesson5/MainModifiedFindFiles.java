@@ -1,4 +1,4 @@
-package lesson5.findfiles;
+package lesson5;
 
 import util.Constants;
 
