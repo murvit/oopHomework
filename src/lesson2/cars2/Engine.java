@@ -1,4 +1,4 @@
-package lesson2.cars;
+package lesson2.cars2;
 
 public class Engine {
     private double mileage;
