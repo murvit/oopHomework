@@ -12,9 +12,9 @@ import java.io.IOException;
 public class HelloTo1234 {
 
     public void changeHello(String file) {
-
+char[] chars=null;
         try (FileReader fr = new FileReader(Constants.FILE_PATH_LESSON_5 + file)) {
-            int i = fr.read(char [] chars);
+            int i = fr.read(chars);
             System.out.println("I=" + i);
         } catch (IOException e) {
             e.printStackTrace();
