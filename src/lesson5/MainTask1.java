@@ -1,5 +1,7 @@
 package lesson5;
 
+// Lesson 5 task1
+
 import util.Constants;
 
 import java.io.File;
@@ -9,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class MainModifiedFindFiles {
+public class MainTask1 {
 
     static class MyFileFilter implements FilenameFilter {
         private String ext;

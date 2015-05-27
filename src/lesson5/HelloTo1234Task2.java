@@ -6,9 +6,9 @@ import java.io.*;
 
 /**
  * Created by VMurashkin on 27.05.2015.
- * String Hello to 1234
+ * Lesson 5 task2
  */
-public class HelloTo1234 {
+public class HelloTo1234Task2 {
 
     public void changeHello(String file) {
         String text = "";
@@ -27,8 +27,7 @@ public class HelloTo1234 {
 
         //change Hello to 1234
 
-        text = build.toString();
-        text = text.replaceAll("Hello", "1234");
+        text = build.toString().replaceAll("Hello", "1234");
 
         //write file
 
@@ -42,7 +41,7 @@ public class HelloTo1234 {
     }
 
     public static void main(String[] args) {
-        HelloTo1234 h = new HelloTo1234();
+        HelloTo1234Task2 h = new HelloTo1234Task2();
         h.changeHello("5.txt");
     }
 
