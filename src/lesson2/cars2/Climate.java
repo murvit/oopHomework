@@ -1,4 +1,4 @@
-package lesson2.Cars;
+package lesson2.cars2;
 
 public class Climate {
 	private boolean on;
