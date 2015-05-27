@@ -7,6 +7,7 @@ import java.text.SimpleDateFormat;
 
 /**
  * Created by User on 27.05.2015.
+ * Lesson 5 Task 4
  */
 public class AllFilesListTask4 {
     public void writeList(String path) {
