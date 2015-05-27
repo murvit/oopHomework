@@ -19,13 +19,15 @@ public class CopyDirectoryTask3 {
         File destination = new File(destin);
         File dir[] = departure.listFiles();
         for (File f : dir) {
-            try {
-                Files.copy(f.toPath(), destination.toPath().resolve(f.getName()));
-                System.out.println("copy " + f.getName() + " to " + destination);
-            } catch (FileAlreadyExistsException e) {
-                System.out.println("Error: " + f.getName() + " is already exists in" + destination);
-            } catch (IOException e) {
-                e.printStackTrace();
+            if (f.isFile()) {
+                try {
+                    Files.copy(f.toPath(), destination.toPath().resolve(f.getName()));
+                    System.out.println("copy " + f.getName() + " to " + destination);
+                } catch (FileAlreadyExistsException e) {
+                    System.out.println("Error: " + f.getName() + " is already exists in" + destination);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             }
         }
     }
