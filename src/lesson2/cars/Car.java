@@ -1,4 +1,4 @@
-package lesson2.cars2;
+package lesson2.cars;
 
 public class Car {
     private String name;
