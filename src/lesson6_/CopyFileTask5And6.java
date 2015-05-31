@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6_;
 
 import util.Constants;
 
