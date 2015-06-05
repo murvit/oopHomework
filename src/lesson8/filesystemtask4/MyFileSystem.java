@@ -1,4 +1,4 @@
-package lesson8.filesystem;
+package lesson8.filesystemtask4;
 
 import util.Constants;
 
@@ -11,6 +11,7 @@ import java.util.*;
  */
 
 public class MyFileSystem extends MyDirectory implements Serializable {
+    private static final long serialVersionUID = 1L;
     MyDirectory myCurrentDirectory;
 
     public MyFileSystem() {
@@ -21,22 +22,25 @@ public class MyFileSystem extends MyDirectory implements Serializable {
         System.out.println("Help: press 'dir' to print all files and directories in current directory");
         System.out.println("'help' for help");
         System.out.println("'md name' to make directory");
-        System.out.println("'rd name' to delete directory and all files in it");
+        System.out.println("'rd name' to remove directory and all files in it");
         System.out.println("'mf name' to make file");
-        System.out.println("'rf name' to delete file");
+        System.out.println("'rf name' to remove file");
         System.out.println("'cd directory' to change directory");
         System.out.println("'back' to parent directory");
+        System.out.println("'save' to save current File system");
+        System.out.println("'load' to load File sysytem from disk");
+        System.out.println("'exit' to exit without saving File system");
     }
 
     public void dir() {
+        System.out.println("Current directory: " + myCurrentDirectory);
         if (!myCurrentDirectory.name.equals("main"))
             System.out.println("..");
-        System.out.println("Current directory: " + myCurrentDirectory);
         for (MyDirectory md : myCurrentDirectory.myDirectories)
             System.out.println("D." + md.name);
         for (MyFile mf : myCurrentDirectory.myFiles)
             System.out.println("F." + mf.name);
-        System.out.println("Diretories: " + myCurrentDirectory.myDirectories.size());
+        System.out.println("Directories: " + myCurrentDirectory.myDirectories.size());
         System.out.println("Files: " + myCurrentDirectory.myFiles.size());
     }
 

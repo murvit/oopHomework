@@ -1,4 +1,4 @@
-package lesson8.filesystem;
+package lesson8.filesystemtask4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,6 +8,7 @@ import java.io.InputStreamReader;
  * Created by VMurashkin on 05.06.2015.
  * Starting!
  */
+
 public class MyMain {
     public static void main(String[] args) throws IOException {
         MyFileSystem m = new MyFileSystem();

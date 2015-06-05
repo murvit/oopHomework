@@ -1,4 +1,4 @@
-package lesson8.filesystem;
+package lesson8.filesystemtask4;
 
 import java.io.Serializable;
 
@@ -10,12 +10,13 @@ import java.io.Serializable;
 
 public class MyFile implements Serializable{
     String name;
-//    MyDirectory myParentDirectory;
-//    MyFileSystem myFileSystem;
+
+
+    public MyFile() {
+    }
 
     public MyFile(String name) {
         this.name = name;
- //       myParentDirectory = myFileSystem.myDirectories;
     }
 
     @Override
@@ -34,8 +35,6 @@ public class MyFile implements Serializable{
         return name.hashCode();
     }
 
-    public MyFile() {
-    }
 
     @Override
     public String toString() {
