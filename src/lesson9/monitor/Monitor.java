@@ -3,33 +3,37 @@ package lesson9.monitor;
 import java.lang.InterruptedException;
 import java.util.Arrays;
 import java.io.*;
+import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
 public class Monitor {
 
-    private String path;
+    private final String PATH;
     private int timeout;
     private List<File> prev = new LinkedList<>();
     private List<File> curr = new LinkedList<>();
     private IFileEvents events;
 
     public Monitor(String path) {
-        this.path = path;
+        PATH = path;
         prev = createArray();
+        curr = createArray();
     }
 
     public void start() {
         while (true) {
+            System.out.println("!start: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             curr = createArray();
             compareArrays(prev, curr);
             prev = curr;
+            System.out.println("finish: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
 
             System.out.println("Waiting...");
             try {
                 Thread.sleep(timeout);
             } catch (InterruptedException ex) {
-                return;
+                ex.getStackTrace();
             }
         }
     }
@@ -76,25 +80,15 @@ public class Monitor {
             if (!previous.contains(current.get(i)))
                 doFileAdded(current.get(i));
             else {
-                File curr = current.get(i);
-                File prev = previous.get(i);
-                long timeCurr = curr.lastModified();
-                long timePrev = prev.lastModified();
                 if (current.get(i).lastModified() != previous.get(i).lastModified())
                     doFileChanged(current.get(i));
-                else
-                    System.out.println(current.get(i).lastModified() + " : " + previous.get(i).lastModified());
             }
         }
-
-
     }
 
     private List<File> createArray() {
-
-        File file = new File(path);
+        File file = new File(PATH);
         File[] list = file.listFiles();
         return new LinkedList<>(Arrays.asList(list));
-
     }
 }
