@@ -25,7 +25,9 @@ public class Monitor {
         while (true) {
             System.out.println("!start: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             curr = createArray();
+            System.out.println("!after: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             compareArrays(prev, curr);
+            System.out.println("compar: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             prev = curr;
             System.out.println("finish: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
 
@@ -33,7 +35,7 @@ public class Monitor {
             try {
                 Thread.sleep(timeout);
             } catch (InterruptedException ex) {
-                ex.getStackTrace();
+                ex.printStackTrace();
             }
         }
     }
