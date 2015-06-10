@@ -31,7 +31,7 @@ public class Monitor {
       //      System.out.println("compar: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             prev = curr;
 
-            System.out.println("finish: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
+      //      System.out.println("finish: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
 
             System.out.println("Waiting...");
             try {
