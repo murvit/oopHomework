@@ -1,37 +1,29 @@
 package lesson9.monitor;
 
 import java.lang.InterruptedException;
-import java.util.Arrays;
+import java.util.*;
 import java.io.*;
-import java.util.Date;
-import java.util.LinkedList;
-import java.util.List;
 
-public class Monitor {
+public class Monitor extends Thread {
 
     private final String PATH;
     private int timeout;
-    private List<File> prev = new LinkedList<>();
-    private List<File> curr = new LinkedList<>();
+    private Map<String, Long> prev = new HashMap<>();
+    private Map<String, Long> curr = new HashMap<>();
     private IFileEvents events;
+    boolean keepRunning = true;
 
     public Monitor(String path) {
         PATH = path;
         prev = createArray();
-        curr = createArray();
     }
 
     public void start() {
-        while (true) {
+        while (keepRunning) {
 
-      //      System.out.println("!start: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             curr = createArray();
-     //       System.out.println("!after: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             compareArrays(prev, curr);
-      //      System.out.println("compar: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
             prev = curr;
-
-      //      System.out.println("finish: " + prev.get(0).lastModified() + " " + curr.get(0).lastModified());
 
             System.out.println("Waiting...");
             try {
@@ -40,6 +32,7 @@ public class Monitor {
                 ex.printStackTrace();
             }
         }
+        System.exit(0);
     }
 
     public int getTimeout() {
@@ -58,41 +51,49 @@ public class Monitor {
         events = value;
     }
 
-    private void doFileAdded(File path) {
+    private void doFileAdded(Map.Entry path) {
         if (events != null)
             events.onFileAdded(path);
     }
 
-    private void doFileDeleted(File path) {
+    private void doFileDeleted(Map.Entry path) {
         if (events != null)
             events.onFileDeleted(path);
     }
 
-    private void doFileChanged(File path) {
+    private void doFileChanged(Map.Entry path) {
         if (events != null)
             events.onFileChanged(path);
     }
 
-    private void compareArrays(List<File> previous, List<File> current) {
+    private void compareArrays(Map<String, Long> previous, Map<String, Long> current) {
 
-        for (File it : previous) {
-            if (!current.contains(it))
+        for (Map.Entry<String, Long> it : previous.entrySet()) {
+            if (!current.containsKey(it.getKey()))
                 doFileDeleted(it);
         }
 
-        for (int i = 0; i < current.size(); i++) {
-            if (!previous.contains(current.get(i)))
-                doFileAdded(current.get(i));
+        for (Map.Entry<String, Long> it : current.entrySet()) {
+            if (!previous.containsKey((it.getKey())))
+                doFileAdded(it);
             else {
-                if (current.get(i).lastModified() != previous.get(i).lastModified())
-                    doFileChanged(current.get(i));
+                if (!it.getValue().equals(previous.get(it.getKey()))) {
+                    doFileChanged(it);
+                }
             }
         }
     }
 
-    private List<File> createArray() {
+    private Map<String, Long> createArray() {
         File file = new File(PATH);
         File[] list = file.listFiles();
-        return new LinkedList<>(Arrays.asList(list));
+        Map<String, Long> result = new HashMap<>();
+        for (File f : list)
+            try {
+                result.put(f.getCanonicalPath(), f.lastModified());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        return result;
     }
 }

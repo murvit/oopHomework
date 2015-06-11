@@ -1,9 +1,9 @@
 package lesson9.monitor;
 
-import java.io.File;
+import java.util.Map;
 
 public interface IFileEvents {
-    void onFileAdded(File path);
-    void onFileDeleted(File path);
-    void onFileChanged(File path);
+    void onFileAdded(Map.Entry path);
+    void onFileDeleted(Map.Entry path);
+    void onFileChanged(Map.Entry path);
 }
