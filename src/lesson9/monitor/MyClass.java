@@ -14,14 +14,14 @@ public class MyClass {
         public void onFileAdded(Map.Entry path) {
             System.out.println("File added: " + path.getKey());
         }
-        
+
         public void onFileDeleted(Map.Entry path) {
             System.out.println("File deleted: " + path.getKey());
         }
 
         @Override
         public void onFileChanged(Map.Entry path) {
-            System.out.println("File changed: " + path.getKey() + " Time: " + sf.format(new Date((Long)path.getValue())));
+            System.out.println("File changed: " + path.getKey() + " Time: " + sf.format(new Date((Long) path.getValue())));
         }
 
     }
@@ -31,7 +31,12 @@ public class MyClass {
         m.setTimeout(2000);
         m.setEvents(new MyEvents());
         m.start();
-        Runtime.getRuntime().addShutdownHook(new MyStop(m));
-
+        Runtime.getRuntime().addShutdownHook(new MyStop());
+        try {
+            m.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        System.out.println("MyClass stopped");
     }
 }

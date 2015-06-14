@@ -6,14 +6,14 @@ package lesson9.monitor;
  */
 
 class MyStop extends Thread {
-    private Monitor m;
 
-    public MyStop(Monitor m) {
-        this.m = m;
+    public MyStop() {
     }
 
     public void run() {
-        m.keepRunning = false;
+        Monitor.keepRunning = false;
+        System.out.println("Stop by user (Message from MyStop)");
+
     }
 }
 

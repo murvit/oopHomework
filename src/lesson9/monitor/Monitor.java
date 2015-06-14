@@ -1,5 +1,7 @@
 package lesson9.monitor;
 
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 import java.lang.InterruptedException;
 import java.util.*;
 import java.io.*;
@@ -8,17 +10,18 @@ public class Monitor extends Thread {
 
     private final String PATH;
     private int timeout;
-    private Map<String, Long> prev = new HashMap<>();
-    private Map<String, Long> curr = new HashMap<>();
+    private Map<String, Long> prev = new LinkedHashMap<>();
+    private Map<String, Long> curr = new LinkedHashMap<>();
     private IFileEvents events;
-    boolean keepRunning = true;
+    static boolean keepRunning = true;
 
     public Monitor(String path) {
         PATH = path;
         prev = createArray();
     }
 
-    public void start() {
+    @Override
+    public void run() {
         while (keepRunning) {
 
             curr = createArray();
@@ -32,7 +35,7 @@ public class Monitor extends Thread {
                 ex.printStackTrace();
             }
         }
-        System.exit(0);
+        System.out.println("Monitor stopped");
     }
 
     public int getTimeout() {
