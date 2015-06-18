@@ -1,8 +1,8 @@
 package lesson11;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import util.Constants;
+
+import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -13,7 +13,11 @@ import java.util.List;
  * Created by VMurashkin on 18.06.2015.
  * Lesson11 task1
  */
+
 public class ParseHtmlTask1 {
+
+    static URL url = null;
+
 
     public String getPage(URL url) {
         HttpURLConnection http = null;
@@ -46,28 +50,52 @@ public class ParseHtmlTask1 {
             return "";
     }
 
-    public void parsePage(String page) {
+    public List<String> parsePage(String page) {
         List<String> result = new ArrayList<>();
         int count = 0;
+        String strUrl;
         while ((count = page.indexOf("href=", count + 1)) > -1) {
-            result.add(page.substring(count + 6, page.indexOf('"', count + 7)));
+            strUrl = page.substring(count + 6, page.indexOf('"', count + 7));
+            if (strUrl.startsWith("/"))
+                result.add(url.toString() + strUrl);
+            else {
+                if (strUrl.startsWith("http") || strUrl.startsWith("www"))
+                    result.add(strUrl);
+            }
         }
         for (String s : result) {
             System.out.println(s);
         }
+        return result;
     }
 
     public static void main(String[] args) {
-
+        String download = Constants.FILE_PATH_LESSON_11;
         ParseHtmlTask1 pht = new ParseHtmlTask1();
-        URL url = null;
+
         try {
-            url = new URL("http://www.google.com");
+            url = new URL("http://www.java.com");
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
         String page = pht.getPage(url);
-        pht.parsePage(page);
+        //       System.out.println(page);
+        List<String> urls = pht.parsePage(page);
+        System.out.println("Writing all files to disk");
+        for (int i = 0; i < urls.size(); i++) {
+            File f = new File(download + "file" + i+".txt");
+            try {
+                BufferedWriter fw = new BufferedWriter(new FileWriter(f));
+                String path = urls.get(i);
+                URL tmpURL = new URL(path);
+                String text = pht.getPage(tmpURL);
+                fw.write(text);
+                fw.flush();
+                System.out.println(path + " =====>   Write OK");
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
 
     }
 
