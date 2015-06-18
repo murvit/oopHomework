@@ -1,0 +1,777 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+  
+
+
+
+	
+		
+			
+				 
+				 
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+	
+			
+		
+
+
+	
+	
+	
+
+	
+    	
+        
+        	
+            
+        
+	
+	
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US" xml:lang="en-US">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="Language" content="en-US"/>
+<meta name="ROBOTS" content="INDEX,FOLLOW"/>
+
+<title>Java Help Center</title>
+
+	<meta name="description" content="Get help for Java and running java applets"/>
+	<meta name="keywords" content="Java Runtime Environment,jvm,Java Runtime,Runtime Environment,Runtime,JRE,Java Virtual Machine,Virtual Machine,Java VM,JVM,VM,plugin,plug-in,add-on"/>
+
+
+<meta name="date" content="2015-02-21"/>
+
+
+
+
+
+	
+		<link rel="stylesheet" media="all" type="text/css" href="/ga/css/oldcss.css" />
+	
+
+
+
+
+	
+		<script type="text/javascript" src="/ga/js/popUp.js"></script>
+	
+ 
+
+
+<link rel="stylesheet" href="/ga/css/screen.css" type="text/css" media="screen" charset="utf-8"/>
+<link rel="stylesheet" href="/ga/css/print.css" type="text/css" media="print" charset="utf-8"/> 
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/ga/share/op/onlineopinionV5/oo_style.css" />
+	
+ 
+
+	
+
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+	
+	
+	
+	 
+	 
+	 
+
+
+<body>
+
+
+	
+	<a name="top"></a>
+	 
+	
+		
+		
+		
+			
+	 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Header/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvh0">
+		<a class="jvl0" href="/en/" title="java.com">Java.com</a>
+<p>
+<a href="/inc/BrowserRedirect1.jsp?locale=en">Download</a> <a href="/en/download/help/">Help</a></p>
+
+<form name="searchForm" method="get" action="https://search.oracle.com/search/search" accept-charset="utf-8" class="jvs0 jv0sv0" onsubmit="if((document.searchForm.q.value == document.searchForm.q.defaultValue) || (document.searchForm.q.value == '')){return false;}">
+<input type="hidden" name="group" value="Java.com">
+<input type="hidden" value="any" name="search_p_main_operator">
+<input type="hidden" name="search_p_atname" value="url"/>
+<input type="hidden" name="search_p_op" value="contains">
+<input type="hidden" name="search_p_val" value="en">
+<input type="text" size="20" maxlength="55" name="q" class="bodytext" onfocus="if( this.value==this.defaultValue ) this.value='';" onblur="if( this.value=='' ) this.value=this.defaultValue;" value="Search" title="Search">
+<input type="image" name="submit" src="/ga/images/jv0_search_btn.gif" id="searchbtn" alt="Search" />
+</form>
+
+	</div>
+	<!-- END: jWidget_C/Header/Display -->
+
+				
+	
+	
+
+
+
+
+
+	 
+	
+	
+	
+		 
+		 
+	
+		
+
+
+<div class="jvc0 jvc0v0 clearfix">
+
+
+<div class="jvc0w1 clearfix">	
+<div class="jvc0w2">
+
+
+<h1>Java Help Center</h1>
+<p>
+Welcome to the Java.com Help Center where we describe solutions for issues you might encounter when downloading and using Java on your computer. We track the most frequently reported issues and error codes and provide answers for them in this section. 
+</p>
+
+
+
+
+
+		
+				
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<div style="width:500px">
+	<hr class="ltgrey" style="height:1px;width:540px">
+	<h2>Top 8 Java Issues</h2>
+	
+	<p></p>
+	<table>
+		<tbody>
+			<tr>
+				<td width="50%" style="vertical-align:top" class="ol">
+					<div>
+						<ol start="1"><li>
+								<a href="/en/download/help/java_blocked.xml" class="orangelink">Why are Java applications blocked by your security settings?</a>
+								</li>
+							<li>
+								<a href="/en/download/help/troubleshoot_java.xml" class="orangelink">Troubleshooting tips for running Java</a>
+								</li>
+							<li>
+								<a href="/en/download/help/testvm.xml" class="orangelink">Test Java</a>
+								</li>
+							<li>
+								<a href="/en/download/faq/chrome.xml" class="orangelink">Java and Google Chrome Browser</a>
+								</li>
+							
+						</ol>
+					</div>
+				</td>
+				
+				<td width="50%" style="vertical-align:top" class="ol">
+					<div>
+						<ol start='5'>
+								<li>
+								<a href="/en/download/help/restore_prompts.xml" class="orangelink">Restore Java Security Prompts</a>
+								</li>
+							
+								<li>
+								<a href="/en/download/faq/expire_date.xml" class="orangelink">Why do I see the Java Update Needed message: Java is out of date?</a>
+								</li>
+							
+								<li>
+								<a href="/en/download/help/java_printing.xml" class="orangelink">Printing issues with Java</a>
+								</li>
+							
+								<li>
+								<a href="/en/download/faq/signed_code.xml" class="orangelink">Developer - Java Security Manifest Changes in the Browser </a>
+								</li>
+							
+						</ol>
+					</div>
+				</td>
+			</tr>
+			
+			<tr>
+				<td colspan="2">
+					<div class="jvsp0">
+						<div class="jvsp0x0">
+							<a href="/en/download/faq/top_issues.xml">&#187;&nbsp;View All</a>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<hr class="ltgrey" style="height:1px;width:540px">
+	</div>
+
+
+      
+<p>
+<b>Terminology:</b>  Java is the general term used to denote the software and its components, which include 'Java Runtime Environment' (JRE), 'Java Virtual Machine' (JVM) and also 'Plug-in'. When error messages specifically include terms such as JRE,  JVM and Plug-in, we retain them. 
+</p>
+
+<p>
+<b>Versions:</b>  Version refers to the Java family and the Update number. Examples: On the website or under Windows programs, version appears as Java 8 Update 25. Older versions can also appear as 1.7.0_65, which refers to Java 7 Update 65.<br /> 
+The Help section contains information on the following versions of Java.
+</p>
+<table border="1" cellpadding="5" cellspacing="0" class="lined">
+<tbody><tr>
+<th>Current Version Name</th>
+<th>Replaces Old Name</th>
+<th>Other Legacy Formats</th>
+</tr>
+<tr valign="top">
+<td>Java 8<br />
+Java 8 Update x</td>
+<td>JRE 8.0 <br />
+JRE 1.8</td>
+<td>1.8.0_0x</td>
+</tr>
+<tr valign="top">
+<td>Java 7 <br />
+Java 7 Update x</td>
+<td>JRE 7.0 <br />
+JRE 1.7</td>
+<td>1.7.0_0x</td>
+</tr>
+
+</tbody></table>
+
+<br />
+
+</div><!-- /jvc0w2  -->
+</div><!-- /jvc0w1 clearfix -->
+	
+
+
+
+
+
+<div class="jvcs0 clearfix">
+
+
+
+
+
+	<div class="spsidebar">	
+	<div class="spheader"><a href='/en/download/help/index.xml'>Help Resources</a></div>
+	<ul>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/download/help/index_installing.xml">Installing Java</a></li>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/download/faq/remove_olderversions.xml">Remove Older Versions</a></li>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/download/help/disable_browser.xml">Disable Java</a></li>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/download/help/index_using.xml">Using Java</a></li>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/download/faq/index_general.xml">General Questions</a></li>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/download/faq/index_mobile.xml">Mobile Java</a></li>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/security/">Security</a></li>
+	
+		
+		
+		
+			 
+			 
+		
+		
+		
+		<li><a href="/en/download/support.jsp">Support Options</a></li>
+	
+	</ul>
+	</div>
+
+
+
+
+
+
+<br> 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+<!-- BEGIN: jWidget_C/Raw-HTML/Display -->
+ 
+
+
+
+	 
+	 
+
+<div class="spsidebar">
+
+<!--  Help Related Lnks -->
+<div class="spheader">
+<a href="/en/download/help/">Related Links</a>
+</div>
+<ul>
+<li><a href="/en/download/faq/helpful_concepts.xml" >Helpful Concepts and Definitions</a></li>
+<li><a href="/en/download/faq/deploy-sysadmin.xml" class="helpHeader">Information for System Administrators</a></li>
+<li><a href="http://www.oracle.com/technetwork/topics/newtojava/">Information for Software Developers</a></li>
+<li><a href="http://www.oracle.com/java/" class="helpHeader">Learn more about Java Technology</a></li>
+<li><a href="/en/download/faq/java_mac.xml" class="helpHeader">Java for Mac</a></li>
+</ul>
+</div>
+
+
+<!-- END: jWidget_C/Raw-HTML/Display -->
+
+				
+	
+	
+
+
+
+
+
+			
+
+
+	
+
+	
+		<br> 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+<!-- BEGIN: jWidget_C/Raw-HTML/Display -->
+ 
+
+
+
+	 
+	 
+
+<br /><br />
+<a href="http://www.prestoexperts.com/lp/java-help-1/?BanID=22489" target="_top">
+	
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+	 
+
+	
+
+	<img src="/ga/images/liveperson_banner170x134.jpg" alt="Find expert help on Java installation and setup"  width="170"  height="134" />
+	
+</a>
+
+<!-- END: jWidget_C/Raw-HTML/Display -->
+
+				
+	
+	
+
+
+
+
+
+	
+
+	
+
+
+
+</div><!--  /jvcs0 clearfix -->
+	
+</div><!-- /jvc0 -->
+
+
+	<!--[if gte IE 6]><!-->
+		<script src="/ga/js/global.js" type="text/javascript" charset="utf-8"></script>
+	<!-- <![endif]-->
+		<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_engine.min.js"></script>
+		<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_conf_tab.js"></script>
+		
+
+
+
+	
+	 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Footer/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvf0">
+		<p> <a href="/en/selectlanguage.jsp">Select&nbsp;Language</a>
+| <a href="/en/about/">About&nbsp;Java</a>
+| 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="/en/download/support.jsp">Support</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+
+| <a href="/en/download/faq/develop.xml">Developers</a>
+<br />
+  <a href="http://www.oracle.com/html/privacy.html">Privacy</a>
+| <a href="http://www.oracle.com/html/terms.html">Terms of Use</a>
+| <a href="http://www.oracle.com/html/3party.html">Trademarks</a>
+|  <a href="/en/about/disclaimer.jsp">Disclaimer</a>
+</p>
+<a href="http://www.oracle.com/" class="jvsun0">Oracle</a>
+	</div>
+	<!-- END: jWidget_C/Footer/Display -->
+
+				
+	
+	
+
+
+
+
+	
+
+
+
+
+	<script language="JavaScript">
+	<!--
+	    var s_channel="javac:Support:Help";
+	    var s_pageName="javac:Support:Help:index.xml";
+	    var s_prop19="en_javac:Support:Help:index.xml";
+	    var s_charSet="UTF-8";
+	//-->
+	</script>
+	<script language="JavaScript" src="/ga/js/s_code_remote.js"></script>
+ 
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

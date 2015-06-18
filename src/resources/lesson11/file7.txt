@@ -1,0 +1,541 @@
+
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+  
+
+
+
+	
+	
+		
+			 
+			 
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+
+
+	
+			
+		
+
+
+	
+	
+	
+
+	
+    	
+        	
+        
+        
+	
+	
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US" xml:lang="en-US">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="Language" content="en-US"/>
+<meta name="ROBOTS" content="INDEX,FOLLOW,NOARCHIVE"/>
+
+<title>What is Java?</title>
+
+	<meta name="description" content="Short video about Java including updates"/>
+	<meta name="keywords" content="auto update, updates, autoupdate"/>
+
+
+<meta name="date" content="2015-05-07"/>
+
+
+
+
+
+	
+
+
+
+
+	
+ 
+
+
+<link rel="stylesheet" href="/ga/css/screen.css" type="text/css" media="screen" charset="utf-8"/>
+<link rel="stylesheet" href="/ga/css/print.css" type="text/css" media="print" charset="utf-8"/> 
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/ga/share/op/onlineopinionV5/oo_style.css" />
+	
+ 
+
+	
+
+
+</head>
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+						
+			
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+			
+			
+			
+			
+				
+				
+					
+					
+				
+			
+			
+			
+						
+			
+					
+					
+					
+						
+							
+							
+														
+														
+							
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+			
+			
+			
+			
+				
+				
+					
+					
+				
+			
+			
+			
+						
+			
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+			
+			
+			
+			
+				
+					
+					
+				
+				
+			
+			
+
+
+
+
+
+
+<body>
+
+
+	
+	
+			
+	
+	
+		
+		
+			 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Header/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvh0">
+		<a class="jvl0" href="/en/" title="java.com">Java.com</a>
+<p>
+<a href="/inc/BrowserRedirect1.jsp?locale=en">Download</a> <a href="/en/download/help/">Help</a></p>
+
+<form name="searchForm" method="get" action="https://search.oracle.com/search/search" accept-charset="utf-8" class="jvs0 jv0sv0" onsubmit="if((document.searchForm.q.value == document.searchForm.q.defaultValue) || (document.searchForm.q.value == '')){return false;}">
+<input type="hidden" name="group" value="Java.com">
+<input type="hidden" value="any" name="search_p_main_operator">
+<input type="hidden" name="search_p_atname" value="url"/>
+<input type="hidden" name="search_p_op" value="contains">
+<input type="hidden" name="search_p_val" value="en">
+<input type="text" size="20" maxlength="55" name="q" class="bodytext" onfocus="if( this.value==this.defaultValue ) this.value='';" onblur="if( this.value=='' ) this.value=this.defaultValue;" value="Search" title="Search">
+<input type="image" name="submit" src="/ga/images/jv0_search_btn.gif" id="searchbtn" alt="Search" />
+</form>
+
+	</div>
+	<!-- END: jWidget_C/Header/Display -->
+
+				
+	
+	
+
+
+
+
+
+		
+	
+
+	<div class="jvc0 jvc0v0 clearfix">
+	
+
+
+
+
+
+
+
+	
+		<div class="jvc0w2">
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+<!-- body content starts here -->
+
+<h3 class="sub">What is Java?</h3>
+
+<p>
+Java allows you to play online games, chat with people around the world, calculate your mortgage interest, and view images in 3D, just to name a few. It's also integral to the intranet applications and other e-business solutions that are the foundation of corporate computing.
+</p>
+
+<br /><br />
+<div style="display:block; width:640px; height:360px; margin:0 auto; ">
+<object id="flashObj" width="640" height="360" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=1218969104001&linkBaseURL=http%3A%2F%2Fmedianetwork.oracle.com%2Fvideo%2Fplayer%2F1218969104001&playerID=1217746023001&playerKey=AQ~~,AAAAAFcSbzI~,OkyYKKfkn3x1llKvCBQgVazGCPhNSKRX&domain=embed&dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=1218969104001&linkBaseURL=http%3A%2F%2Fmedianetwork.oracle.com%2Fvideo%2Fplayer%2F1218969104001&playerID=1217746023001&playerKey=AQ~~,AAAAAFcSbzI~,OkyYKKfkn3x1llKvCBQgVazGCPhNSKRX&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="640" height="360" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+</div>
+ 
+
+<br /><br />
+<span class="rightarrowred">&#187;</span> <a href="http://java.com/en/download/faq/whatis_java.xml">What is Java FAQ</a><br />
+<span class="rightarrowred">&#187;</span> <a href="/en/about/">Find&nbsp;Out&nbsp;More&nbsp;About&nbsp;Java</a><br />
+<span class="rightarrowred">&#187;</span> <a href="/inc/BrowserRedirect1.jsp?locale=en">Download Java</a>
+<br /><br />
+<br />
+<hr />
+
+<!-- BEGIN: jWidget_C/Raw-HTML/Display -->
+ 
+
+
+
+	 
+	 
+
+<p class="quiet">Java software for your computer, or the Java Runtime Environment, is also referred to as the Java Runtime, Runtime Environment, Runtime, JRE, Java Virtual Machine, Virtual Machine, Java VM, JVM, VM, Java plug-in, Java plugin, Java add-on or Java download. 
+</p><br /><br />
+<!-- END: jWidget_C/Raw-HTML/Display -->
+
+<!-- body content ends here -->
+<!-- RIGHT COLUMN / -->
+
+
+
+
+</div><!-- /jvc0w1 or jvc0w2 (1col/2col) layout -->
+
+
+
+
+
+
+
+  
+  
+  
+
+        </div>
+        <!-- /jvc0 -->
+        <!-- /CONTENT -->
+        
+
+
+
+
+
+	
+	
+		
+				
+			 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Footer/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvf0">
+		<!-- Standard Footer -->
+<p><a href="/en/selectlanguage.jsp">Select&nbsp;Language</a>
+| <a href="/en/about/">About&nbsp;Java</a>
+| <a href="/en/download/support.jsp">Support</a>
+| <a href="/en/download/faq/develop.xml">Developers</a>
+<br />
+ 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/privacy.html">Privacy</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+ 
+| 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/terms.html">Terms of Use</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+
+| 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/3party.html">Trademarks</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+
+| <a href="/en/about/disclaimer.jsp">Disclaimer</a>
+</p>
+<a href="http://www.oracle.com" class="jvsun0">Oracle</a>
+	</div>
+	<!-- END: jWidget_C/Footer/Display -->
+
+				
+	
+	
+
+
+
+
+
+		
+	
+
+	
+	
+	
+		
+			<!--[if gte IE 6]><!-->
+			<script src="/ga/js/global.js" type="text/javascript" charset="utf-8"></script>
+			<!-- <![endif]-->
+			<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_engine.min.js"></script>
+			<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_conf_tab.js"></script>
+		
+	
+
+	
+	
+	
+		
+			<!-- Begin SiteCatalyst code version: G.5. -->
+
+<script language="JavaScript">
+<!--
+var s_channel = "javac:Awareness";	
+var s_pageName="javac:About:WhatIsJava:Home";
+var s_prop19="en_javac:About:WhatIsJava:Home";
+var s_prop20="Category_Home_Pages";
+//--></script>
+<script language="JavaScript" src="/ga/js/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.5. -->
+		
+	
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+	    
+		

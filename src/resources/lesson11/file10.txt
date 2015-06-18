@@ -1,0 +1,981 @@
+
+
+
+
+
+
+		
+		
+		
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+		
+		
+		
+
+
+
+
+
+
+
+<head>
+
+	
+	
+	
+	<title>JavaOne Conference | JavaOne 2015</title>
+	<meta name="Title" content="JavaOne Conference | JavaOne 2015">
+	<meta name="Description" content="JavaOne San Francisco, October 25 to 29, 2015. Hear the best speakers, get insight into the future of Java, and connect with the community.">
+	<meta name="Keywords" content="JavaOne">
+	
+	
+	
+	<meta name="Language" content='null'>
+		
+	
+
+	
+					
+	
+	
+		
+		
+	
+	<meta name='robots' content='Index, Follow'>
+
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+	<link href='//www.oracle.com/us/assets/event3-base-styles.css' media="print, screen" rel="Stylesheet" type="text/css" />
+	<link href='//www.oracle.com/us/assets/event3-styles.css' media="print, screen" rel="Stylesheet" type="text/css" />
+
+	
+	
+		
+		
+			<link href='//www.oracle.com/us/assets/javaone3.css' media="print, screen" rel="Stylesheet" type="text/css" />
+				
+		
+	
+	
+
+	<script type="text/javascript" language="JavaScript" src='//www.oracle.com/us/assets/jquery.js'></script>
+	<script type="text/javascript" language="JavaScript" src='//www.oracle.com/us/assets/event3.js'></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	
+
+<!-- BEGIN: ocom/global/components/Social-Media-Meta-Tags -->
+
+
+
+
+
+
+	
+
+	
+
+	
+
+
+
+<!-- END: ocom/global/components/Social-Media-Meta-Tags -->
+
+
+</head>
+
+
+
+
+
+	
+		
+			
+				
+					
+		
+		
+					
+				
+	
+	
+
+
+<body class='f11 f11v3 j1'>	
+	<div class="f11w1">
+
+		<!-- Header -->
+		
+				
+				
+		
+
+
+
+
+
+
+
+
+	
+			
+			
+				
+					
+					
+					
+					
+					
+					
+					
+					
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+
+
+
+
+
+<!-- U13v0 -->
+<div id="u13" class="u13v0">
+	<div class="u13w1 cwidth">
+
+		<div class="u13w11"><a href="http://www.oracle.com/index.html"><div class="icn-img icn-oracle-logo"><span class="screen-reader">Oracle</span></div></a></div>
+
+		<div class="u13w10"><div class="o-bttns hotbttn"><div><a class="icn-cv-right" href="https://www.oracle.com/javaone/register/index.html">Register</a></div></div></div>
+
+		<div class="u13logo"><a href="https://www.oracle.com/javaone/index.html"><img alt="JavaOne 2015" src="//www.oracle.com/us/assets/javaone-logo-2015"></a></div>
+
+
+		<div class="u13w3" id="u13menu">
+			<ul class="u13nav">
+
+				<li class="u13navitem">
+
+					<div class="u13mnav">Attend</div>
+
+					<div class="u13w4">
+						<div class="u13w5">
+							<div class="u13col">
+								<ul>
+									<li><a href="https://www.oracle.com/javaone/register/index.html">Register</a></li>
+									<li><a href="https://www.oracle.com/javaone/register/compare.html">Compare Packages</a></li>
+									<li><a href="https://www.oracle.com/javaone/register/justification.html">Justify Your Trip</a></li>
+									<li><a href="https://oracleus.lanyonevents.com/2015/portal/myAccount.ww" target="_blank">My Account</a></li>
+									<li><a href="https://www.oracle.com/javaone/location.html">Event Location</a></li>
+									<li><a href="https://www.oracle.com/javaone/hotel-information.html">Housing</a></li>
+									<li><a href="https://www.oracle.com/javaone/register/terms.html">Terms and Conditions</a></li>
+									<li><a href="https://www.oracle.com/javaone/code-of-conduct.html">Code of Conduct</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+
+
+				<li class="u13navitem">
+
+					<div class="u13mnav">Agenda</div>
+
+					<div class="u13w4">
+						<div class="u13w5">
+							<div class="u13col">
+								<ul>
+									<li><a href="https://www.oracle.com/javaone/agenda.html">Agenda</a></li>
+									<li><a href="https://www.oracle.com/javaone/keynotes.html">Keynotes</a></li>
+									<li><a href="https://www.oracle.com/javaone/rock-stars.html">Rock Star Wall of Fame</a></li>
+								</ul>
+							</div>
+					</div>
+				</li>
+
+
+				<li class="u13navitem">
+
+					<div class="u13mnav">Sessions</div>
+
+					<div class="u13w4">
+						<div class="u13w5">
+							<div class="u13col">
+								<ul>
+									<li><a href="https://www.oracle.com/javaone/program-committee.html">Program Committee</a></li>
+									<li><a href="https://www.oracle.com/javaone/speakers.html">Featured Speakers</a></li>
+									<li><a href="https://www.oracle.com/javaone/javaone4kids.html">JavaOne4Kids</a></li>
+									<li><a href="https://www.oracle.com/javaone/sessions.html">2014 Sessions</a></li>
+								</ul>
+							</div>
+
+                            <div class="u13col">
+								<h4>Tools</h4>
+								<ul>
+									<li><a href="https://events.rainfocus.com/oow15/catalog/oracle.jsp?event=javaone">Content Catalog</a></li>
+									<li><a href="https://www.oracle.com/javaone/call-for-proposals.html">Call For Proposals</a></li>
+									<li><a href="https://www.oracle.com/javaone/tracks.html">Tracks</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="u13navitem">
+
+					<div class="u13mnav">Exhibits</div>
+
+					<div class="u13w4">
+						<div class="u13w5">
+							<div class="u13col">
+								<ul>
+									<li><a href="https://www.oracle.com/javaone/exhibit.html">Exhibit</a></li>
+									<li><a href="https://www.oracle.com/javaone/sponsor.html">Sponsor</a></li>
+									<li><a href="https://www.oracle.com/javaone/advertise.html">Advertise</a></li>
+									
+								</ul>
+							</div>
+							<div class="u13col">
+								<ul>
+									<li><a href="https://events.rainfocus.com/oow15/exhibitorlist/javaone.jsp">Exhibitor Listing</a></li>
+									<li><a href="https://www.oracle.com/javaone/sponsor-listing.html">Sponsor Listing</a></li>
+									
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="u13navitem">
+
+					<div class="u13mnav">Network</div>
+
+					<div class="u13w4">
+						<div class="u13w5">
+							<div class="u13col">
+								<h4>Online</h4>
+								<ul>
+									<li><a href="http://www.facebook.com/javaone" target="_blank">Facebook</a></li>
+									<li><a href="http://twitter.com/JavaOneConf/" target="_blank">Twitter</a></li>
+									<li><a href="http://www.linkedin.com/groups/JavaOne-Conference-1749197" target="_blank">LinkedIn</a></li>
+									<li><a href="https://blogs.oracle.com/javaone" target="_blank">Blog</a></li>
+								</ul>
+							</div>
+							<div class="u13col">
+								<h4>Onsite</h4>
+								<ul>
+									<li><a href="https://www.oracle.com/javaone/dukes-cafe.html">Dukes Caf&eacute;</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+
+			</ul>
+		</div>
+
+
+		<div class="u13w2">
+			<div class="u13eventdate">October 25&ndash;29, 2015  <span>|</span>  San Francisco</div>
+			<div class="u13xlink u13myacct"><a href="https://oracleus.lanyonevents.com/2015/portal/myAccount.ww" target="_blank">My Account</a></div>
+			<div class="u13xlink u13events u13sm">
+				<span>Other Events</span>
+					<div class="u13smw1">
+						<div class="u13smw2">
+							<ul>
+								<li><a href="https://www.oracle.com/openworld/index.html">Oracle OpenWorld</a></li>
+                                    <li>
+                                        <h6>JavaOne Latin America</h6>
+                                        <a href="https://www.oracle.com/javaone/br-en/index.html">English</a> <b>|</b> <a href="https://www.oracle.com/javaone/br/index.html">Português</a>
+                                    </li>
+                                    <li>
+                                        <h6>Oracle OpenWorld Latin America</h6>
+                                        <a href="https://www.oracle.com/openworld/br-en/index.html">English</a> <b>|</b> <a href="https://www.oracle.com/openworld/br/index.html">Português</a>
+                                    </li>
+							</ul>
+						</div>
+					</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- /U13v0 -->
+
+
+<!-- END: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+				
+				
+		
+		
+
+
+
+		<!-- Breadcrumbs -->
+		
+				
+				
+		
+
+		<!-- Banner -->
+		
+
+<!-- BEGIN Template - Any/Global/Banner --!>
+
+
+
+
+	
+
+		
+		
+			
+			
+				
+					
+					
+				
+				
+					
+						
+
+
+<!-- Begin Template - Tab/Parent-->
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+			
+				
+			
+		
+	
+
+
+
+<!-- End Template - Tab/Parent-->
+
+					
+				
+			
+		
+
+
+<!-- END Template - Any/Global/Banner --!>
+
+
+		
+		
+		
+		
+		
+
+		<!-- Body -->
+		
+				
+				
+		
+
+
+
+
+
+	
+	
+	
+		
+		
+
+	
+		
+		 		
+
+				
+
+
+
+
+<!-- null -->
+	
+
+	
+	
+		
+		
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+
+
+
+
+
+
+
+
+<!-- CW46v1 -->
+<div class="cw46 cw46v1">
+	<div class="cw46w1">
+
+		<div class="cw46w5">
+			<img class="cw46bgimg" src="//www.oracle.com/us/assets/cw46-j1-java-to-learn-2545788.jpg" alt="JavaOne"/>
+		</div>
+
+		<div class="cw46w2">
+			<div class="cw46w4 cwidth">
+				<div class="cw46w3">
+					<h2>More Java to Learn than Ever Before</h2>
+					<p>We&#39;ve selected the best, most innovative sessions for this year&#39;s JavaOne. Make plans now so you won&#39;t miss out. </p>
+					<hr />
+					<a class="o-cta icn-circlearrow hide-on-mobile" href="/javaone/register/index.html">Register now</a>
+					<a class="o-cta icn-circlearrow" href="https://events.rainfocus.com/oow15/catalog/oracle.jsp?event=javaone">Content Catalog</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /CW46v1 -->
+
+<!-- C99v0 -->
+<div class="c99 c99v0">
+	<div class="cwidth">
+		<div class="c99v0w1">
+
+			<div class="c99sponsorblock">
+				<h4>Diamond</h4>
+				<a href="http://www.ibm.com" target="_blank"><img src="//www.oracle.com/us/assets/c99-ibm-2576205.png" alt="IBM" /></a>
+			</div>
+			<div class="c99sponsorblock">
+				<h4>Gold</h4>
+				<a href="https://www.atlassian.com" target="_blank"><img src="//www.oracle.com/us/assets/c99-atlassian-2564973.png" alt="Atlassian" /></a>
+				<a href="https://www.jahia.com/home" target="_blank"><img src="//www.oracle.com/us/assets/c99-jahia-2578017.png" alt="Jahia" /></a>
+			</div>
+			<div class="c99sponsorblock">
+				<h4>Silver</h4>
+				<a href="https://www.cuba-platform.com/en" target="_blank"><img src="//www.oracle.com/us/assets/c99-cuba-platform-2549978.png" alt="Cuba Platform" /></a>
+				<a href="https://github.com/" target="_blank"><img src="//www.oracle.com/us/assets/c99-github-2547447.png" alt="GitHub" /></a>
+				<a href="http://www.softarex.com/index.php/en/" target="_blank"><img src="//www.oracle.com/us/assets/c99-softarex-2547448.png" alt="Softarex" /></a>
+			</div>
+
+		</div>
+	</div>
+</div>
+<!-- /C99v0 -->
+
+
+<!-- CW47v0 -->
+<div class="cw47 cw47v0">
+	<div class="cw47v0w1">
+
+<!-- CW47v1 -->
+<div class="cw47 cw47v1">
+	<div class="cwidth">
+		<h3>Latest News</h3>
+
+		<div class="cw47w1 cw47tile cw47tile-lg">
+			
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p2-j1-content-plus-community-2545787.jpg">
+		<a href="/javaone/register/index.html" class="cw47flink">
+			<div class="cw47cta">
+				Get superior content&mdash;plus community. There&#39;s $400 in Early Bird savings, so register now.
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+		</div>
+
+		<div class="cw47w2 cw47tile cw47tile-sm">
+<!-- CW47v6 -->
+<div class="cw47v6 cw47content">
+	<div class="cw47tweet">
+
+		<div class="cw47tweetw1">
+			<a class="twitter-timeline"  href="https://twitter.com/hashtag/javaone"  data-widget-id="348100975443197952"  data-theme="dark" data-chrome="noheader nofooter transparent noscrollbar noborder">#javaone Tweets</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+
+	</div>
+</div>
+<!-- /CW47v6 -->
+
+
+		</div>
+
+		<div class="cw47w3 cw47tile cw47tile-sm">
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p2-j1-keynote-java-innovation-2545786.jpg">
+		<a href="/javaone/keynotes.html" class="cw47flink">
+			<div class="cw47cta">
+				Keynote: Hear how Java is shaping innovation.
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+		</div>
+
+		<div class="cw47w4 cw47tile cw47tile-md">
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p5-j1-increase-brand-awareness-2545784.jpg">
+		<a href="/javaone/advertise.html" class="cw47flink">
+			<div class="cw47cta">
+				Increase brand awareness with the thousands in attendance.
+Maximize your marketing efforts.
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+		</div>
+
+		<div class="cw47w5 cw47tile cw47tile-sm">
+<!-- CW47v4 -->
+<div class="cw47v4 cw47content">
+	<span class="cw47greytext">Justify Your Trip</span>
+	<h3>Download the justification e-mail, tailor it to fit your needs, then send it for approval.</h3>
+	<a href="/javaone/register/justification.html#justify" class="cw47flink">
+		<div class="cw47ctalink icn-cv-right">
+			<span class="o-cta icn-circlearrow" href="/javaone/register/justification.html">Download the e-mail</span>
+		</div>
+	</a>
+</div>
+<!-- /CW47v4 -->
+		</div>
+
+
+		<div class="cw47w6 cw47tile cw47tile-sm">
+			
+<!-- CW47v3 -->
+<div class="cw47v3 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p5-j1-whats-j1-about-vid-2559226.jpg">
+
+		<a data-trackas="lightbox" data-lbl="lightbox-open-see-what-javaone-is-all-about" title="See what JavaOne is all about" rel="brightcoveLightBox" href="http://www.oracle.com/content/groups/systemobject/@mktg_admin/documents/webcontent/videoplayer-ocom.html?bctid=4265584479001&amp;playerType=single&amp;size=events" class="cw47flink cw47vlink">
+			<div class="cw47cta">
+				See what JavaOne is all about.
+			</div>
+		</a>
+</div>
+<!-- /CW47v3 -->
+
+
+		</div>
+
+	</div>
+</div>
+<!-- /CW47v1 -->
+
+<!-- CW47v1 -->
+<div class="cw47 cw47v1">
+	<div class="cwidth">
+		<h3>Featured Speakers</h3>
+
+		<div class="cw47w1 cw47tile cw47tile-lg">
+			
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p6-j1-speaker-lineup-2547446.jpg">
+		<a href="/javaone/keynotes.html" class="cw47flink">
+			<div class="cw47cta">
+				Check out the keynote lineup.
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+		</div>
+
+
+		<div class="cw47w2 cw47tile cw47tile-sm">
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p5-j1-speaker-gee-2547336.jpg">
+		<a href="/javaone/speakers.html#gee" class="cw47flink">
+			<div class="cw47cta">
+				Trisha Gee
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+
+		</div>
+
+		<div class="cw47w3 cw47tile cw47tile-sm">
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p5-j1-speaker-winterhalter-2545783.jpg">
+		<a href="/javaone/speakers.html#winterhalter" class="cw47flink">
+			<div class="cw47cta">
+				Rafael Winterhalter
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+		</div>
+
+		<div class="cw47w4 cw47tile cw47tile-md">
+<!-- CW47v6 -->
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p4-j1-speaker-purdy-2545780.jpg">
+		<a href="/javaone/speakers.html#purdy" class="cw47flink">
+			<div class="cw47cta">
+				Cameron Purdy
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+<!-- /CW47v6 -->
+		</div>
+
+		<div class="cw47w5 cw47tile cw47tile-sm">
+
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p5-j1-speaker-don-smith-2547335.jpg">
+		<a href="/javaone/keynotes.html#java-community" class="cw47flink">
+			<div class="cw47cta">
+				Donald Smith
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+		</div>
+
+		<div class="cw47w6 cw47tile cw47tile-sm">
+<!-- CW47v2 -->
+<div class="cw47v2 cw47content" data-tileimg="//www.oracle.com/us/assets/cw47p5-j1-speaker-sadogursky-2545782.jpg">
+		<a href="/javaone/speakers.html#sadogursky" class="cw47flink">
+			<div class="cw47cta">
+				Baruch Sadogursky				
+			</div>
+		</a>
+</div>
+<!-- /CW47v2 -->
+		</div>
+
+	</div>
+</div>
+<!-- /CW47v1 -->
+
+	</div>
+</div>
+<!-- /CW47v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+
+	
+	
+	
+
+ 									
+				 
+		
+		 		
+
+				
+
+
+
+
+<!-- null -->
+	
+
+	
+	
+		
+		
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+
+
+
+
+
+
+
+
+<!-- CW21v0 -->
+<div class="cw21 cw21v0">
+  <div class="cw21slideout">
+
+    <div class="cw21handle">
+      <ul class="cw21navigation">
+        <li class="cw21help"><a href="#cw21-helptab">Call</a></li>
+        <li class="cw21chat"><a rel="lightBox" href="https://oracle-open-world.custhelp.com/app/chat/chat_launch/source/javaone?iframe=true&amp;width=1000&amp;height=620">Chat</a></li>
+		<li class="cw21social"><a href="#cw21-socialtab">Social</a></li>
+      </ul>
+    </div>
+
+    <div class="cw21w1">
+
+      <div class="cw21w2" id="cw21-helptab">
+        <h4>We're here to help</h4>
+        <ul>
+          <li class="cw21phone">+1.866.382.7151</li>
+          <li class="cw21phone">+1.650.226.0820</li>
+          <li class="cw21email"><a href="mailto:JavaOneReg@gpj.com">JavaOneReg@gpj.com</a></li>
+        </ul>
+      </div>
+
+
+	<div class="cw21w2" id="cw21-socialtab">
+
+        <p>Follow JavaOne</p>
+		<ul class="cw21-iconfont cw21-sicons">
+          <li><a href="http://www.facebook.com/javaone" target="_blank"><div class="icn-img icn-sicons icn-facebook"><span class="screen-reader">Facebook</span></div></a></li>
+		  <li><a href="http://twitter.com/JavaOneConf/" target="_blank"><div class="icn-img icn-sicons icn-twitter"><span class="screen-reader">Twitter</span></div></a></li>
+          <li><a href="http://www.linkedin.com/groups/JavaOne-Conference-1749197" target="_blank"><div class="icn-img icn-sicons icn-linkedin"><span class="screen-reader">LinkedIn</span></div></a></li>
+          <li><a href="http://blogs.oracle.com/javaone/" target="_blank"><div class="icn-img icn-sicons icn-blogs"><span class="screen-reader">Blog</span></div></a></li>
+        </ul>
+
+        <p>Follow Oracle Corporate</p>
+		<ul class="cw21-iconfont cw21-sicons">
+					<li>
+						<a href="http://www.oracle.com/us/social-media/facebook/index.html" target="_blank"><div class="icn-img icn-sicons icn-facebook"><span class="screen-reader">Facebook</span></div></a></li>
+					<li>
+						<a href="http://www.oracle.com/us/social-media/twitter/index.html" target="_blank"><div class="icn-img icn-sicons icn-twitter"><span class="screen-reader">Twitter</span></div></a></li>
+					<li>
+						<a href="http://www.oracle.com/us/social-media/linkedin/index.html" target="_blank"><div class="icn-img icn-sicons icn-linkedin"><span class="screen-reader">LinkedIn</span></div></a></li>
+					<li>
+						<a href="https://plus.google.com/u/0/115607918987921226255" target="_blank"><div class="icn-img icn-sicons icn-googleplus"><span class="screen-reader">Google Plus</span></div></a></li>
+					<li>
+						<a href="http://www.youtube.com/oracle/" target="_blank"><div class="icn-img icn-sicons icn-youtube"><span class="screen-reader">Youtube</span></div></a></li>
+				
+        </ul>
+
+        
+				<ul>
+					<li>
+						<a href="http://www.oracle.com/us/social-media/twitter/index.html" target="_blank">Oracle Social Media Directory</a></li>
+					<li>
+						<a href="http://www.oracle.com/us/syndication/feeds/index.html" target="_blank">Oracle RSS Directory</a></li>
+				</ul>	</div>
+    </div>
+
+
+
+
+
+  </div>
+</div>
+<!-- /CW21v0 -->
+
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+
+	
+	
+	
+
+ 									
+				 
+					
+		
+
+   	
+	
+  	
+	
+  	
+	
+  	
+	
+	
+
+
+
+		<!-- Footer -->
+		
+				
+				
+		
+
+
+
+
+
+
+
+
+	
+			
+			
+				
+					
+						  
+						  
+						  
+						  
+						  	
+							
+							
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+
+
+
+
+
+<!-- U12v0 -->
+<div id="u12" class="u12v0">
+	<div class="u12w1 cwidth">
+		<div class="u12w2">
+			<h5>About JavaOne</h5>
+			<ul>
+				<li><a href="https://www.oracle.com/javaone/location.html">Location</a></li>
+				<li><a href="https://www.oracle.com/javaone/hotel-information.html">Hotel Information</a></li>
+<!--
+				<li><a href="https://www.oracle.com/javaone/on-demand/index.html">Watch On Demand</a></li>
+-->
+				<li><a href="https://www.oracle.com/javaone/register/terms.html#terms">Terms and Conditions</a></li>
+				<li><a href="https://www.oracle.com/javaone/code-of-conduct.html">Code of Conduct</a></li>
+			</ul>
+		</div>
+		<div class="u12w3">
+			<h5>Regional Events</h5>
+			<ul>
+				<li><a href="https://www.oracle.com/javaone/br-en/index.html">JavaOne Latin America</a></li>
+				<li><a href="https://www.oracle.com/openworld/br-en/index.html">Oracle OpenWorld Latin America</a></li>
+			</ul>
+		</div>
+		<div class="u12w4">
+			<h5>Event Tools</h5>
+			<ul>
+				<li><a href="https://oracleus.lanyonevents.com/2015/portal/sso.ww" target="_blank">My Account</a></li>
+                
+				<li><a href="https://events.rainfocus.com/oow15/catalog/oracle.jsp?event=javaone">Content Catalog</a></li>
+              <!--
+				<li><a href="placeholder.html">Schedule Builder</a></li>
+                -->
+			</ul>
+		</div>
+		<div class="u12w5">
+			<h5>Oracle Conferences</h5>
+			<ul>
+				<li><a href="https://www.oracle.com/openworld/index.html">Oracle OpenWorld</a></li>
+			</ul>
+		</div>
+		<div class="u12w6">
+			<div class="o-bttns hotbttn">
+				<div><a class="icn-cv-right" href="https://www.oracle.com/javaone/register/index.html">Register</a></div>
+			</div>
+            <!--
+			<div class="u12promo"><img src="http://webstandards.us.oracle.com/assets/images/u12/u12-promo.jpg" /></div>
+            -->
+		</div>
+		<div class="u12w7">
+		<div class="u12w8"><a href="http://www.oracle.com/index.html">Oracle</a></div>
+			<ul>
+				<li><a href="http://www.oracle.com/us/legal/privacy/overview/index.html">Legal Notices</a></li>
+				<li><a href="http://www.oracle.com/us/legal/terms/index.html">Terms of Use</a></li>
+				<li><a href="http://www.oracle.com/us/legal/privacy/index.html">Privacy</a></li>
+                                <script type='text/javascript' src='//consent-st.truste.com/get?name=notice.js&domain=oracle.com&c=teconsent&language=en&text=true'></script>
+
+        <li>
+
+        <div id="teconsent" style="*margin-top:5px;"></div>
+
+        </li>
+
+			</ul>
+		<div class="u12w9">
+			<ul>
+				<li><a href="http://www.facebook.com/javaone" target="_blank"><div class="icn-img icn-sicons icn-facebook">JavaOne on Facebook</div></a></li>
+				<li><a href="http://twitter.com/JavaOneConf/" target="_blank"><div class="icn-img icn-sicons icn-twitter">JavaOne on Twitter</div></a></li>
+				<li><a href="http://www.linkedin.com/groups/JavaOne-Conference-1749197" target="_blank"><div class="icn-img icn-sicons icn-linkedin">JavaOne on LinkedIn</div></a></li>
+                                <li><a href="https://blogs.oracle.com/javaone/" target="_blank"><div class="icn-img icn-sicons icn-blogs">Oracle OpenWorld</div></a></li>
+
+
+				<li class="u12hash"><a href="https://twitter.com/hashtag/javaone" target="_blank">#javaone</a></li>
+			</ul>
+		</div>
+		</div>
+	</div>
+</div>
+<!-- /U12v0 -->
+
+
+<!-- END: oWidget_C/_Raw-Text/Display-siteroot -->
+
+
+			
+						  
+						  
+						  
+						  
+						  
+
+
+
+
+<!-- null -->
+	
+
+	
+	
+		
+		
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+
+
+
+
+
+
+
+
+<!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_oow.js"></script>
+<!-- End SiteCatalyst code -->
+<!-- Start x1 pixel code-->
+<script type="text/javascript"> if (truste.cma.callApi("getConsent","oracle.com",null,null,"advertising").consent == "approved") { var ut_params = ut_params || [];ut_params.push("UT-330371730"); (function() {var ut = document.createElement('script'); ut.type = 'text/javascript'; ut.async = true; ut.src = (("https:" == document.location.protocol) ? "https://" : "http://") + 'app.ubertags.com/javascripts/ubertags.js'; var script = document.getElementsByTagName('script')[0]; script.parentNode.insertBefore(ut, script);})(); } </script>
+<!-- End x1 pixel code-->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+
+	
+	
+	
+
+
+				
+				
+		
+		
+
+
+
+	</div>
+</body>
+</html>
+
+
+
+
+	

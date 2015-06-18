@@ -1,0 +1,703 @@
+
+	
+		
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+  
+
+
+
+	
+	
+		
+			 
+			 
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+
+
+	
+			
+		
+
+
+	
+	
+	
+
+	
+    	
+        	
+        
+        
+	
+	
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US" xml:lang="en-US">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="Language" content="en-US"/>
+<meta name="ROBOTS" content="INDEX,FOLLOW,NOARCHIVE"/>
+
+<title>Java in Action: Java + Greenfoot</title>
+
+	<meta name="description" content=""/>
+	<meta name="keywords" content="Java learning, education"/>
+
+
+<meta name="date" content="2014-01-29"/>
+
+
+
+
+
+	
+
+
+
+
+	
+ 
+
+
+<link rel="stylesheet" href="/ga/css/screen.css" type="text/css" media="screen" charset="utf-8"/>
+<link rel="stylesheet" href="/ga/css/print.css" type="text/css" media="print" charset="utf-8"/> 
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/ga/share/op/onlineopinionV5/oo_style.css" />
+	
+ 
+
+	
+
+
+</head>
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+						
+			
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+			
+			
+			
+			
+				
+				
+					
+					
+				
+			
+			
+			
+						
+			
+					
+					
+					
+						
+							
+							
+														
+														
+							
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+			
+			
+			
+			
+				
+				
+					
+					
+				
+			
+			
+			
+						
+			
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+					
+					
+					
+						
+					
+				
+			
+			
+			
+			
+				
+					
+					
+				
+				
+			
+			
+
+
+
+
+
+
+<body>
+
+
+	
+	
+			
+	
+	
+		
+		
+			 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Header/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvh0">
+		<a class="jvl0" href="/en/" title="java.com">Java.com</a>
+<p>
+<a href="/inc/BrowserRedirect1.jsp?locale=en">Download</a> <a href="/en/download/help/">Help</a></p>
+
+<form name="searchForm" method="get" action="https://search.oracle.com/search/search" accept-charset="utf-8" class="jvs0 jv0sv0" onsubmit="if((document.searchForm.q.value == document.searchForm.q.defaultValue) || (document.searchForm.q.value == '')){return false;}">
+<input type="hidden" name="group" value="Java.com">
+<input type="hidden" value="any" name="search_p_main_operator">
+<input type="hidden" name="search_p_atname" value="url"/>
+<input type="hidden" name="search_p_op" value="contains">
+<input type="hidden" name="search_p_val" value="en">
+<input type="text" size="20" maxlength="55" name="q" class="bodytext" onfocus="if( this.value==this.defaultValue ) this.value='';" onblur="if( this.value=='' ) this.value=this.defaultValue;" value="Search" title="Search">
+<input type="image" name="submit" src="/ga/images/jv0_search_btn.gif" id="searchbtn" alt="Search" />
+</form>
+
+	</div>
+	<!-- END: jWidget_C/Header/Display -->
+
+				
+	
+	
+
+
+
+
+
+		
+	
+
+	<div class="jvc0 jvc0v4 clearfix">
+	
+
+
+
+
+
+
+
+	
+	
+		<div class="jvc0w1 clearfix">
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+		<div class="jvc0w2" style="background-image:url('/ga/images/jia/jia_greenfoot.jpg');">
+			<h1>Java + Greenfoot: </h1>
+			<h2>Create games, animations, and more!</h2>
+			<p>Greenfoot is a Java interactive development environment created to help students learn. It allows easy development of two-dimensional graphical applications, like simulations and interactive games. Using Greenfoot, students learn the Java programming language in a fun, interesting, and visually engaging way! The Greenfoot programming environment is suitable for students as young as 13 and up through high school and college. Go to Greenfoot.org and download it for free.<br />
+            Java + Greenfoot: Start learning today!</p>
+			<ul class="redarrows">
+			    <li><a href="http://www.greenfoot.org/">Learn more about Greenfoot</a></li>
+				<li><a href="http://www.greenfoot.org/home">See what people are creating at the Greenfoot Gallery</a></li>
+				<li>
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/technetwork/topics/newtojava/young-developers-jsp-136992.html">Learn more about Oracle's Engage with Java program</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+</li>
+            </ul>    
+			
+			<hr />
+
+			<div class="thumbs thumbs4">
+				<div class="thumb">
+				
+	
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+	 
+
+	
+
+	<img src="/ga/images/jia_greenfoot_thumbs1.jpg" alt="Greenfoot web site screenshot" />
+	
+
+				<span></span>
+				</div>
+				<div class="thumb">
+	
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+	 
+
+	
+
+	<img src="/ga/images/jia_greenfoot_thumbs2.jpg" alt="Greenfoot diver scenario screenshot " />
+	
+
+				<span></span>
+				</div>
+				<div class="thumb">
+	
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+	 
+
+	
+
+	<img src="/ga/images/jia_greenfoot_thumbs3.jpg" alt="Greenfoot Gallery screenshot" />
+	
+
+				<span></span>
+				</div>
+				<div class="thumb">
+	
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+	 
+
+	
+
+	<img src="/ga/images/jia_greenfoot_thumbs4.jgp" alt="Greenfoot space scenario screenshot " />
+	
+
+				<span></span>
+				</div>
+			</div>
+</div>
+
+
+
+</div><!-- /jvc0w1 or jvc0w2 (1col/2col) layout -->
+
+
+
+
+
+
+			
+				
+					 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+<!-- BEGIN: jWidget_C/Raw-HTML/Display -->
+ 
+
+
+
+	 
+	 
+
+<div class="jvcs0 jvcs0v0 clearfix">
+<div class="jvcs0w0">
+<h3>Young Developers</h3>
+<ul class="sidebar">
+<li>
+<a href="/en/java_in_action/alice.jsp">Java&nbsp;+&nbsp;Alice</a></li>
+<li> 
+<a href="/en/java_in_action/bluej.jsp">Java&nbsp;+&nbsp;BlueJ</a></li>
+<li> 
+<a href="/en/java_in_action/greenfoot.jsp">Java&nbsp;+&nbsp;Greenfoot</a></li>
+</ul>
+</div>
+</div>
+
+<!-- END: jWidget_C/Raw-HTML/Display -->
+
+				
+	
+	
+
+
+
+
+
+				
+			
+
+			
+				
+			
+
+			
+				
+			
+
+			
+				
+			
+
+
+  
+  
+  
+
+        </div>
+        <!-- /jvc0 -->
+        <!-- /CONTENT -->
+        
+
+
+
+
+
+	
+	
+		
+				
+			 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Footer/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvf0">
+		<!-- Standard Footer -->
+<p><a href="/en/selectlanguage.jsp">Select&nbsp;Language</a>
+| <a href="/en/about/">About&nbsp;Java</a>
+| <a href="/en/download/support.jsp">Support</a>
+| <a href="/en/download/faq/develop.xml">Developers</a>
+<br />
+ 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/privacy.html">Privacy</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+ 
+| 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/terms.html">Terms of Use</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+
+| 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/3party.html">Trademarks</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+
+| <a href="/en/about/disclaimer.jsp">Disclaimer</a>
+</p>
+<a href="http://www.oracle.com" class="jvsun0">Oracle</a>
+	</div>
+	<!-- END: jWidget_C/Footer/Display -->
+
+				
+	
+	
+
+
+
+
+
+		
+	
+
+	
+	
+	
+		
+			<!--[if gte IE 6]><!-->
+			<script src="/ga/js/global.js" type="text/javascript" charset="utf-8"></script>
+			<!-- <![endif]-->
+			<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_engine.min.js"></script>
+			<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_conf_tab.js"></script>
+		
+	
+
+	
+	
+	
+		
+			
+<!-- Begin SiteCatalyst code version: G.5. -->
+<script language="JavaScript">
+<!--
+var s_channel = "javac:Action";	
+var s_pageName = "javac:Action:Greenfoot";	
+var s_prop19="en_javac:Action:Greenfoot";	
+var s_prop20 = "Item_App_Pages";
+var s_prop21 = "NoAds";
+//--></script>
+<script language="JavaScript" src="/ga/js/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.5. -->
+
+
+		
+	
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+		
+	

@@ -1,0 +1,716 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+	
+
+
+
+  
+
+
+
+	
+		
+					
+			
+				 
+				 
+			
+			
+			
+			
+			
+			
+			
+			
+		
+	
+	
+
+
+
+
+	
+			
+		
+
+
+	
+	
+	
+
+	
+    	
+        
+        	
+            
+        
+	
+	
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US" xml:lang="en-US">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="Language" content="en-US"/>
+<meta name="ROBOTS" content="NOINDEX,FOLLOW,NOARCHIVE"/>
+
+<title>java.com Support Options</title>
+
+	<meta name="description" content="This page is a reference on how to get assistance for Java. It also provides additional resources to other related sites."/>
+	<meta name="keywords" content=""/>
+
+
+<meta name="date" content="2015-04-28"/>
+
+
+
+
+
+	
+
+
+
+
+	
+		<script type="text/javascript" src="/ga/js/popUp.js"></script>
+	
+ 
+
+
+<link rel="stylesheet" href="/ga/css/screen.css" type="text/css" media="screen" charset="utf-8"/>
+<link rel="stylesheet" href="/ga/css/print.css" type="text/css" media="print" charset="utf-8"/>
+<!--[if IE]><link rel="stylesheet" href="/ga/css/ie.css" type="text/css" media="screen" charset="utf-8" /><![endif]-->
+
+ 
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/ga/share/op/onlineopinionV5/oo_style.css" />
+	
+ 
+
+	
+
+
+
+                  <script type="text/javascript">
+                    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(c,a){AKSB.q.push(["mark",c,a||(new Date).getTime()])};AKSB.measure=function(c,a,b){AKSB.q.push(["measure",c,a,b||(new Date).getTime()])};AKSB.done=function(c){AKSB.q.push(["done",c])};AKSB.mark("firstbyte",(new Date).getTime());
+                    AKSB.prof={custid:"131324",ustr:"",originlat:0,clientrtt:33,ghostip:"92.122.215.91",ipv6:false,pct:10,xhrtest:false,clientip:"109.95.50.239",requestid:"53f5d940",protocol:"",akM:"dscx",akN:"ae"};
+                    (function(c){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var b=document.getElementsByTagName("script"),b=b[b.length-1];b.parentNode.insertBefore(a,b);a=a.contentWindow.document;b=String.fromCharCode;c=b(60)+"body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+c+"';document.body.appendChild(js);\""+b(62);a.open().write(c);a.close()})(("https:"===document.location.protocol?
+                    "https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js");
+                  </script>
+                  </head>
+
+
+
+
+	
+	
+
+ 
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	 
+	
+
+
+
+<body>
+		
+	 
+	
+		
+		
+		
+		
+														
+		
+		
+		
+			
+	 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Header/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvh0">
+		<a class="jvl0" href="/" title="java.com">Java.com</a>
+	<p>
+		<a href="/inc/BrowserRedirect1.jsp">Download</a> <a href="/en/download/help/">Help</a></p>
+
+<form name="searchForm" method="get" action="https://search.oracle.com/search/search" accept-charset="utf-8" class="jvs0 jv0sv0" onsubmit="if((document.searchForm.q.value == document.searchForm.q.defaultValue) || (document.searchForm.q.value == '')){return false;}">
+<input type="hidden" name="group" value="Java.com">
+<input type="hidden" value="any" name="search_p_main_operator">
+<input type="hidden" name="search_p_atname" value="url"/>
+<input type="hidden" name="search_p_op" value="contains">
+<input type="hidden" name="search_p_val" value="en">
+<input type="text" size="20" maxlength="55" name="q" class="bodytext" onfocus="if( this.value==this.defaultValue ) this.value='';" onblur="if( this.value=='' ) this.value=this.defaultValue;" value="Search" title="Search">
+<input type="image" name="submit" src="/ga/images/jv0_search_btn.gif" id="searchbtn" alt="Search" />
+</form>
+	</div>
+	<!-- END: jWidget_C/Header/Display -->
+
+				
+	
+	
+
+
+
+
+
+		
+
+	<!--  CONTENT -->
+	<!--  jvc0 -->
+	<div class="jvc0 jvc0v0 clearfix">
+		<!--  jvc0w1 -->
+		<div class="jvc0w1 clearfix">
+			<div class="jvc0w2">
+			<!-- body content starts here -->
+
+			
+			
+				
+			
+
+
+
+
+
+
+
+
+
+
+ 
+<!-- BEGIN: jWidget_C/Property_HTML -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+<h1>Support Options</h1>
+
+<p>
+At Oracle we are committed to helping users resolve problems faced using Java software. Here are some support options that you can use to reach a solution for your problem.
+</p>
+<table width="100%" cellpadding="3" cellspacing="1" border="0">
+<tr>
+<th width="30%">Support Options</th>
+<th>Description</th>
+</tr>
+<tr>
+<td style="vertical-align:top">Phone Support</td>
+<td>
+Phone  support for end users of Java software is not available. <br /><br />
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top"><a href="/en/download/help/" title="[!prop:ldp:help_center!]">Self-Help</a></td>
+<td>Help and FAQ sections on Java.com provide answers to most commonly experienced problems by users. Solutions provided here are easy to follow and implement, using step-by-step instructions. This may be the fastest way to get your problems resolved. These sections are updated regularly based on the feedback that we receive from users.
+</td>
+</tr>
+
+<tr class="alt">
+<td style="vertical-align:top"><a href="http://bugreport.sun.com/bugreport/main.jsp">Consumer Java Feedback</a></td>
+<td>
+For ongoing product and user experience improvement, we ask you to fill the feedback form providing details about the issue you are experiencing. If a number of individuals report an issue, then we will make efforts to post a new FAQ page addressing the issue, and as needed, a fix may be available in a future release. </td>
+</tr>
+
+<tr>
+<td style="vertical-align:top">
+<a href="http://www.prestoexperts.com/lp/java-help-1/?BanID=22489">Online Chat Support</a></td>
+<td>
+This third-party fee-for-service option, provided by LivePerson® through PrestoExperts.com, allows you to do a live chat session directly with a Java software expert who may be able to answer your question or help you solve your issue. Here's how it works: Select an expert - start live chat session with the Java software expert. All chats start free. Tell the expert about your issue, and find out if the expert can help. Upon a satisfactory solution to your problem, you will be charged the posted fee.</a>
+</td>
+</tr>
+
+</table>
+
+<br /> <br />
+
+<!-- Additional Resources -->
+<h1>Additional Resources</h1>
+<table width="100%" cellpadding="3" cellspacing="1" border="0">
+<tr>
+<th width="30%">Resources</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td><a href="http://www.oracle.com/technetwork/java/index.html">Developers</a></td>
+<td>Developer support of Oracle's development technologies: JDK, Java EE SDK, Java ME, etc. platforms</td>
+</tr>
+
+<tr>
+<td>
+<a href="http://www.oracle.com/us/technologies/java/standard-edition/support/overview/index.html">
+Enterprise</a></td>
+<td>Oracle Java SE Support provides access to Oracle Premier Support for the components and features included with Java Platform, Standard Edition (Java SE). </td>
+</tr>
+<tr>
+<td>
+<a href="https://community.oracle.com/community/java">
+Developer Forums</a></td>
+<td>Online forums in support of Oracle's Java development technologies.</td>
+</tr>
+</table>
+<!-- /Table -->
+<br /> <br />
+<a href="#top">Back to Top</a>
+
+
+<!-- body content ends here -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- END: jWidget_C/Property_HTML -->
+
+
+
+
+
+			
+			
+			<!-- body content ends here -->
+			<!-- RIGHT COLUMN / -->
+			<!-- STYLED CONTENTS / -->
+			</div>
+		</div>
+
+		<!--  jvcs0 Sidebar -->
+		
+		
+		
+			
+				
+					
+					
+					
+						
+						
+						
+						
+																		
+						
+						
+						
+											
+					 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			 
+<!-- BEGIN: jWidget_C/Property_HTML -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+			
+		
+		
+		
+<!--  jvcs0 Sidebar -->
+<div class="jvcs0 clearfix">
+<div class="spsidebar">
+<!--  Help Resources -->
+<div class="spheader">
+<a href="/en/download/help/index.xml">Help Resources</a>
+</div>
+<ul>
+ <li><a href="/en/download/help/index_installing.xml">Installing Java</a></li>
+
+ <li><a href="/en/download/faq/remove_olderversions.xml" title="Remove Older Versions">Remove Older Versions</a></li>
+
+<li><a href="/en/download/help/disable_browser.xml" title="Disable Java">Disable Java</a></li>
+ <li><a href="/en/download/help/troubleshoot_java.xml">Troubleshoot Java</a></li>
+ <li><a href="/en/download/help/index_using.xml">Using Java</a></li>
+ <li><a href="/en/download/faq/index_general.xml">General Questions</a></li>
+ <li><a href="/en/security/">Security</a></li>
+
+</ul>
+
+
+</div>
+</div>
+<!-- /jvcs0 Sidebar -->
+
+
+
+
+
+
+
+
+<!-- END: jWidget_C/Property_HTML -->
+
+				
+	
+	
+
+
+
+
+
+				
+			
+		
+		<!-- /jvcs0 Sidebar -->
+	</div>
+	<!-- /jvc0 -->
+	<!-- /CONTENT -->
+			
+	
+		
+		
+		
+		
+														
+		
+		
+		
+		
+	 
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				
+			  	
+				
+					
+				
+			
+		
+		
+		
+			
+			
+			
+	<!-- BEGIN: jWidget_C/Footer/Display -->
+	
+	
+	
+	
+		 
+		 
+	
+	<div class="jvf0">
+		<!-- Standard Footer -->
+<p><a href="/en/selectlanguage.jsp">Select&nbsp;Language</a>
+| <a href="/en/about/">About&nbsp;Java</a>
+| <a href="/en/download/support.jsp">Support</a>
+| <a href="/en/download/faq/develop.xml">Developers</a>
+<br />
+ 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/privacy.html">Privacy</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+ 
+| 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/terms.html">Terms of Use</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+
+| 
+	<!--  Begin /jExternal_C/Render-Link.jsp -->
+	
+	
+	
+		 
+		 
+	
+	<a href="http://www.oracle.com/html/3party.html">Trademarks</a>
+	<!--  End /jExternal_C/Render-Link.jsp -->
+
+| <a href="/en/about/disclaimer.jsp">Disclaimer</a>
+</p>
+<a href="http://www.oracle.com" class="jvsun0">Oracle</a>
+	</div>
+	<!-- END: jWidget_C/Footer/Display -->
+
+				
+	
+	
+
+
+
+
+
+	
+	
+	
+	
+	
+		
+			<!--[if gte IE 6]><!--><script src="/ga/js/global.js" type="text/javascript" charset="utf-8"></script><!-- <![endif]-->
+			<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_engine.min.js"></script>
+			<script language="javascript" type="text/javascript" charset="UTF-8" src="/ga/share/op/onlineopinionV5/oo_conf_tab.js"></script>
+		
+	
+	
+	
+	
+	
+		
+			
+				
+				
+				
+				
+																
+				
+				
+				
+								
+			 
+<!-- BEGIN: jWidget_C/Omniture/Basic -->
+
+
+
+
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin SiteCatalyst code version: G.5. -->
+<script language="JavaScript">
+<!--
+var s_channel="javac:Awareness";
+var s_pageName="javac:Awareness:ContactUs:Home";
+var s_prop19="en_javac:Awareness:ContactUs:Home";
+var s_prop20="Administrative_Pages";
+var s_prop21="NoAds";
+
+//-->
+</script>
+<script language="JavaScript" src="/ga/js/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.5. -->
+
+<!-- END: jWidget_C/Omniture/Basic -->
+
+		
+	
+		
+
+</body>
+</html>
+
+
+
+

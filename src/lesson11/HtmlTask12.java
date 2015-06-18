@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * Created by VMurashkin on 18.06.2015.
- * Lesson11 task1
+ * Lesson11 task1 & 2
  */
 
 public class HtmlTask12 {
