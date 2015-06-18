@@ -14,7 +14,7 @@ import java.util.List;
  * Lesson11 task1
  */
 
-public class ParseHtmlTask1 {
+public class HtmlTask12 {
 
     static URL url = null;
 
@@ -71,7 +71,7 @@ public class ParseHtmlTask1 {
 
     public static void main(String[] args) {
         String download = Constants.FILE_PATH_LESSON_11;
-        ParseHtmlTask1 pht = new ParseHtmlTask1();
+        HtmlTask12 pht = new HtmlTask12();
 
         try {
             url = new URL("http://www.java.com");
@@ -83,7 +83,7 @@ public class ParseHtmlTask1 {
         List<String> urls = pht.parsePage(page);
         System.out.println("Writing all files to disk");
         for (int i = 0; i < urls.size(); i++) {
-            File f = new File(download + "file" + i+".txt");
+            File f = new File(download + "file" + i + ".txt");
             try {
                 BufferedWriter fw = new BufferedWriter(new FileWriter(f));
                 String path = urls.get(i);
