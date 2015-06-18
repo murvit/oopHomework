@@ -12,7 +12,7 @@ import java.util.Map;
  */
 public class DictionaryTask12 implements Serializable {
 
-    private static Map<String, String> vocabulary = new HashMap<>();
+    private Map<String, String> vocabulary = new HashMap<>();
 
     DictionaryTask12() {
 
@@ -70,7 +70,7 @@ public class DictionaryTask12 implements Serializable {
                 String word1 = word.substring(0, word.indexOf("="));
                 String word2 = word.substring(word.indexOf("=")+1);
                 System.out.println("word = '" + word1 + "` translate = '" + word2+"`");
-                dictionary.add(vocabulary, word1, word2);
+                dictionary.add(dictionary.vocabulary, word1, word2);
             } else {
                 dictionary.translate(word);
             }

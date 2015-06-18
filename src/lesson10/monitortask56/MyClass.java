@@ -36,13 +36,16 @@ public class MyClass {
             dir();
         }
 
-        public void dir(){
+        public void dir() {
             SimpleDateFormat sf = new SimpleDateFormat("dd.MM.yyyy hh:mm:ss");
-            File [] all = new File(Constants.FILE_PATH_LESSON_10 + "tmp/").listFiles();
+            File[] all = new File(Constants.FILE_PATH_LESSON_10 + "tmp/").listFiles();
             System.out.println("All files:");
             for (File f : all) {
                 try {
-                    System.out.println(f.getCanonicalPath() + " date: " + sf.format(f.lastModified()) + " length: " + f.length());
+                    System.out.format("%s date: %s length: %s %n",
+                            f.getCanonicalPath(),
+                            sf.format(f.lastModified()),
+                            f.length());
                 } catch (IOException e) {
                     e.printStackTrace();
                 }

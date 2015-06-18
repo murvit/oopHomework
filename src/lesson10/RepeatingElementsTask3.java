@@ -9,7 +9,7 @@ import java.util.TreeMap;
  */
 public class RepeatingElementsTask3 {
 
-    public <T> void count(T[] array) {
+    public <T extends Comparable<T>> void count(T [] array) {
 
         Map<T, Integer> result = new TreeMap<>();
         for (T temp : array) {

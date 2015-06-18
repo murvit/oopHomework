@@ -4,6 +4,7 @@ import java.lang.Thread;
 import java.lang.InterruptedException;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 import java.util.Set;
 import java.io.*;
 
@@ -13,8 +14,8 @@ public class Monitor
         
         private String path;
         private int timeout;
-        private HashMap<String, Long> prev = new HashMap<String, Long>();
-        private HashMap<String, Long> curr = new HashMap<String, Long>();
+        private Map<String, Long> prev = new HashMap<String, Long>();
+        private Map<String, Long> curr = new HashMap<String, Long>();
         private IFileEvents events;
         
         public MonitorThread(String path) {
@@ -67,7 +68,7 @@ public class Monitor
                 events.onFileDeleted(path);
         }
         
-        private void compareMaps(HashMap<String, Long> m1, HashMap<String, Long> m2) {
+        private void compareMaps(Map<String, Long> m1, Map<String, Long> m2) {
             Set<String> keys = m1.keySet();
             Iterator<String> it = keys.iterator();
             while (it.hasNext())
@@ -104,14 +105,14 @@ public class Monitor
             }
         }
         
-        private void createHashMap(HashMap<String, Long> output) {
+        private void createHashMap(Map<String, Long> output) {
             try {
                 File file = new File(path);
                 File[] list = file.listFiles();
                 
                 output.clear();
                 for (File f : list) {
-                    output.put(f.getCanonicalPath(), new Long(f.lastModified()));
+                    output.put(f.getCanonicalPath(), f.lastModified());
                 }
             } catch (IOException ex) {
                 ex.printStackTrace();
