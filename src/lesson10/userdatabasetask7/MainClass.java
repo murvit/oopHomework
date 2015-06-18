@@ -17,8 +17,8 @@ public class MainClass {
         UserDatabase userDatabase = new UserDatabase(work);
         userDatabase.help();
         boolean exit = false;
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         while (!exit) {
-            BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
             System.out.println("Enter command");
             String command = reader.readLine();
             switch (command) {
