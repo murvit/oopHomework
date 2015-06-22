@@ -14,7 +14,7 @@ public class ListServers {
 
     public void makeReport() {
         Properties property = new Properties();
-        String server = null;
+        String server;
         try (FileInputStream fis = new FileInputStream(Constants.FILE_PATH_LESSON_12 + "servers.txt");
              BufferedReader reader = new BufferedReader(new InputStreamReader(fis));
              FileOutputStream fos = new FileOutputStream(Constants.FILE_PATH_LESSON_12 + "servers.properties")
