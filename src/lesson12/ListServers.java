@@ -26,7 +26,7 @@ public class ListServers {
                     property.setProperty(server , "Online");
                     System.out.println("'" + server + "'" + " is online");
                 }
-                catch (UnknownHostException ue) {
+                catch (IOException e) {
                     property.setProperty(server , "Offline");
                     System.out.println("'" + server + "'" + " is offline");
                 }
